@@ -30,7 +30,7 @@ A 5-segment LED bar lights up proportionally to the intensity of the sensor read
 5. Bulb Demonstration
 A small low-voltage bulb is powered to simulate a real-world energy harvesting application.
 
-##Hardware Components
+## Hardware Components
 
 - Arduino Uno 
 - Piezoelectric sensor 
